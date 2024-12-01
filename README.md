@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Science and Data Analytics.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on Machine learning and Deep learning projects. 
-- 📫 You can reach me on codekushal@gmail.com or whatsapp me on 8709489113.
+- 📫 You can reach me on codekushal@gmail.com.
 
 <!---
 codekushalS/codekushalS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
